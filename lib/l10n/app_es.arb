@@ -1,0 +1,17 @@
+{
+  "name": "Nombre",
+  "surname": "Apellido",
+  "email": "Correo",
+  "test_date":"Fecha de prueba",
+  "attention":"Atención",
+  "please_fill":"Por favor, completa los campos obligatorios",
+  "accept":"Aceptar",
+  "no_data":"Lo sentimos, no hay datos disponibles",
+  "type":"Tipo",
+  "card_list":"Lista de tarjetas",
+  "spanish":"Español",
+  "english":"Inglés",
+  "detail":"Detalle",
+  "hello":"Hola",
+  "multiverseid":"Multiverso"
+}

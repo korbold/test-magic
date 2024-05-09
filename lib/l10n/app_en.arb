@@ -1,0 +1,17 @@
+{
+    "name": "Name",
+    "surname": "Surname",
+    "email": "Email",
+    "test_date":"Test date",
+    "attention":"Attention",
+  "please_fill":"Please fill in the form below to register for the test.",
+  "accept":"Accept",
+  "no_data":"Sorry, no data available",
+  "type":"Type",
+  "card_list":"Card list",
+  "spanish":"Spanish",
+  "english":"English",
+  "detail":"Detail",
+  "hello":"Hello",
+  "multiverseid":"Multiverse"
+}
